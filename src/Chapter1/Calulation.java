@@ -25,7 +25,7 @@ class Sub{
         return x-y;
     }
 }
-class  Calculation{
+ class  Calculation{
     public static void main(String[] args) {
         Add add =new Add();
         add.x = 3;

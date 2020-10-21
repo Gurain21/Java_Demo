@@ -6,8 +6,8 @@ public class DataTypeCpmvert {
         int x1 = 10,x2,x3;
         float y1 = 20.56F,y2;
         c3 = (char)(c1 +c2);
-        x2 = x1 + c1;
-        x3 =(int)(x1 + y1);
+        x2 = x1 + c1;//     a 的编码值为：97   故 x1 + c1 = 10 + 97
+        x3 =(int)(x1 + y1);//     转型后为int类型，小数点后直接抹零
 
         y2 = x1 * y1;
         System.out.println("c3 ="+c3+ ", x2 = "+ x2+ ", x3 = "+ x3);
