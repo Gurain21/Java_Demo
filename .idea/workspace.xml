@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe042a7-b3d0-4c59-921a-6622f1eca5cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoArray/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demoabstruct/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demoabstruct/Master.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demoabstruct/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demoabstruct/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoTotalClass/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoTotalClass/TestBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoTotalClass/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/StaticDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/StaticDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/DemoArray/ArrayDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/DemoArray/ArrayDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="应用程序.ArrayDemo">
+  <component name="RunManager" selected="应用程序.TestBank">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoArray.ArrayDemo" />
       <module name="javaDemo" />
@@ -76,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMethed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AQFVideoChapter.TestMethed" />
+    <configuration name="TestBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoTotalClass.TestBank" />
       <module name="javaDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AQFVideoChapter.*" />
+          <option name="PATTERN" value="DemoTotalClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,26 +112,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.TestBank" />
         <item itemvalue="应用程序.ArrayDemo" />
         <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.test" />
         <item itemvalue="应用程序.Time" />
-        <item itemvalue="应用程序.TestMethed" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +163,9 @@
       <workItem from="1603364833225" duration="2487000" />
       <workItem from="1603451563734" duration="7891000" />
       <workItem from="1603518515204" duration="1698000" />
-      <workItem from="1603541410021" duration="694000" />
+      <workItem from="1603541410021" duration="2046000" />
+      <workItem from="1603614469498" duration="5000" />
+      <workItem from="1603632906525" duration="5423000" />
     </task>
     <servers />
   </component>
@@ -180,10 +177,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1601183262619" />
-    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1603467678574">
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1603633565245">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1603467678574" />
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1603633565245" />
     <state x="0" y="359" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603466557509">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -193,26 +190,26 @@
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601389722128" />
     <state x="549" y="178" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1603466546695" />
-    <state width="1007" height="167" key="GridCell.Tab.0.bottom" timestamp="1603519577661">
+    <state width="1494" height="204" key="GridCell.Tab.0.bottom" timestamp="1603638434985">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1495" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601772190286" />
-    <state width="1007" height="167" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603519577661" />
-    <state width="1007" height="167" key="GridCell.Tab.0.center" timestamp="1603519577660">
+    <state width="1494" height="204" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603638434985" />
+    <state width="1494" height="204" key="GridCell.Tab.0.center" timestamp="1603638434985">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1495" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601772190286" />
-    <state width="1007" height="167" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603519577660" />
-    <state width="1007" height="167" key="GridCell.Tab.0.left" timestamp="1603519577660">
+    <state width="1494" height="204" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603638434985" />
+    <state width="1494" height="204" key="GridCell.Tab.0.left" timestamp="1603638434985">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1495" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601772190285" />
-    <state width="1007" height="167" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603519577660" />
-    <state width="1007" height="167" key="GridCell.Tab.0.right" timestamp="1603519577660">
+    <state width="1494" height="204" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603638434985" />
+    <state width="1494" height="204" key="GridCell.Tab.0.right" timestamp="1603638434985">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1495" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601772190286" />
-    <state width="1007" height="167" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603519577660" />
+    <state width="1494" height="204" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603638434985" />
     <state x="449" y="179" width="638" height="408" key="com.intellij.ide.util.TipDialog" timestamp="1601770041864">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
