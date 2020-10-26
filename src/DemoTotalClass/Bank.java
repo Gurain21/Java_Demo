@@ -64,7 +64,6 @@ public class Bank {
         do {
             System.out.println("====1.存款 2.取款 3.转账 4.查询余额 5.修改密码 0.退出");
             int chose = in.nextInt();
-
             switch (chose) {
                 case 1:
                     this.save(u);
@@ -79,7 +78,7 @@ public class Bank {
                     this.query(u);
                     break;
                 case 5:
-                   this.setPassword(u);
+                    this.setPassword(u);
                     break;
                 default:
                     login();
@@ -88,68 +87,77 @@ public class Bank {
             }
         } while (true);
     }
-    public void  save(User u){
+
+    public void save(User u) {
         Scanner input = new Scanner(System.in);
         System.out.println("请输入存款金额");
         double m = input.nextDouble();
-        if (m > 0){
-            u.setBanlance(u.getBanlance()+m);
-            System.out.println("存钱成功,当前余额:"+u.getBanlance());
-                return;
-        }else{
+        if (m > 0) {
+            u.setBanlance(u.getBanlance() + m);
+            System.out.println("存钱成功,当前余额:" + u.getBanlance());
+            return;
+        } else {
             System.out.println("存钱失败,请重试...");
             return;
         }
     }
-    public void withDraw(User u){
+
+    public void withDraw(User u) {
         Scanner input = new Scanner(System.in);
         System.out.println("请输入取款金额");
         double m = input.nextDouble();
-        if (m > 0){
-            if (u.getBanlance()-m >=0) {
+        if (m > 0) {
+            if (u.getBanlance() - m >= 0) {
                 u.setBanlance(u.getBanlance() - m);
                 System.out.println("取钱成功,当前余额:" + u.getBanlance());
 
-            }else    System.out.println("存钱失败,请重试...");
+            } else System.out.println("存钱失败,请重试...");
 
-        }else{
+        } else {
             System.out.println("存钱失败,请重试...");
         }
     }
-    public void trans(User u){
+
+    public void trans(User u) {
         Scanner input = new Scanner(System.in);
         System.out.println("请输入对方卡号");
         String cardNo = input.next();
         System.out.println("请输入转账金额");
         double m = input.nextDouble();
-        for (int i = 0;i<users.length;i++)
-            if (users[i].getCardNo().equals(cardNo) && u.getCardNo() != cardNo) {
-
-                if (m > 0 && u.getBanlance() > m) {
-                    u.setBanlance(u.getBanlance() - m);
-                    users[i].setBanlance(users[i].getBanlance() - m);
-                    System.out.println("转账成功.");
-                    System.out.println("当前余额为:" + u.getBanlance());
-
-                } else {
-                    System.out.println("余额不足,转账失败....");
-                }
-            } else {
-                System.out.println("查无此号,请确认后重试!");
+       //判断对方账号是否存在
+        User toUser = null;
+        for (int i = 0;i<size;i++){
+            if (users[i].getCardNo().equals(cardNo)){
+                toUser =users[i];
+                break;
             }
+        }
+        if (toUser != null){
+            if (u.getBanlance()> m){
+                u.setBanlance(u.getBanlance() -m);
+                toUser.setBanlance(toUser.getBanlance()+m);
+                System.out.println("转账成功");
+            }else {
+                System.out.println("转账失败,余额不足");
+            }
+        }else {
+            System.out.println("代码账号不存在");
+        }
+        }
 
+
+    public void query(User u) {
+        System.out.println("当前余额为:" + u.getBanlance());
     }
-    public void query(User u){
-        System.out.println("当前余额为:"+u.getBanlance());
-    }
-    public void  setPassword(User u){
+
+    public void setPassword(User u) {
         System.out.println("请输入旧密码");
         Scanner input = new Scanner(System.in);
         String pwd = input.next();
-        if (u.getPassword() != pwd){
+        if (u.getPassword() != pwd) {
             System.out.println("密码错误 ...");
             return;
-        }else {
+        } else {
             System.out.println("请输入新密码");
             String topwd = input.next();
             u.setPassword(topwd);
