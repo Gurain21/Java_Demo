@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe042a7-b3d0-4c59-921a-6622f1eca5cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ComputeRectCircleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ConcentCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/PaintRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/PassAdress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/PassValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/YYECFC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/LoanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4_类的深入理解/ConstructorInherit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4_类的深入理解/MothodInherit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4_类的深入理解/VarInherit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/DemoTotalClass/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/DemoTotalClass/Bank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/DemoTotalClass/TestBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/DemoTotalClass/TestBank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoTotalClass/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoTotalClass/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoTotalClass/TestBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoTotalClass/TestBank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +48,22 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="应用程序.YYECFC">
-    <configuration name="ComputeRectCircleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.ComputeRectCircleArea" />
+  <component name="RunManager" selected="应用程序.ConstructorInherit">
+    <configuration name="ConstructorInherit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4_类的深入理解.ConstructorInherit" />
+      <module name="javaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4_类的深入理解.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.LoanTest" />
       <module name="javaDemo" />
       <extension name="coverage">
         <pattern>
@@ -68,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.Fibonacci" />
+    <configuration name="MothodInherit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4_类的深入理解.MothodInherit" />
       <module name="javaDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.*" />
+          <option name="PATTERN" value="Chapter4_类的深入理解.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,25 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaintRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.PaintRectangle" />
+    <configuration name="VarInherit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4_类的深入理解.VarInherit" />
       <module name="javaDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PassAdress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.PassAdress" />
-      <module name="javaDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter3.*" />
+          <option name="PATTERN" value="Chapter4_类的深入理解.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,26 +114,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ConstructorInherit" />
+        <item itemvalue="应用程序.MothodInherit" />
+        <item itemvalue="应用程序.VarInherit" />
+        <item itemvalue="应用程序.LoanTest" />
         <item itemvalue="应用程序.YYECFC" />
-        <item itemvalue="应用程序.PaintRectangle" />
-        <item itemvalue="应用程序.Fibonacci" />
-        <item itemvalue="应用程序.ComputeRectCircleArea" />
-        <item itemvalue="应用程序.PassAdress" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +168,11 @@
       <workItem from="1603541410021" duration="2046000" />
       <workItem from="1603614469498" duration="5000" />
       <workItem from="1603632906525" duration="6477000" />
-      <workItem from="1603702875884" duration="8555000" />
+      <workItem from="1603702875884" duration="9906000" />
+      <workItem from="1603767733291" duration="96000" />
+      <workItem from="1603767854883" duration="84000" />
+      <workItem from="1603942468607" duration="508000" />
+      <workItem from="1604311188883" duration="9179000" />
     </task>
     <servers />
   </component>
@@ -188,39 +184,39 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1601183262619" />
-    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1603633565245">
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1604320057686">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1603633565245" />
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1604320057686" />
     <state x="0" y="359" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603466557509">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="359" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1603466557509" />
-    <state x="549" y="178" key="FileChooserDialogImpl" timestamp="1603466546695">
+    <state x="549" y="178" key="FileChooserDialogImpl" timestamp="1603767895834">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601389722128" />
-    <state x="549" y="178" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1603466546695" />
-    <state width="1494" height="332" key="GridCell.Tab.0.bottom" timestamp="1603713039471">
+    <state x="549" y="178" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1603767895834" />
+    <state width="1494" height="332" key="GridCell.Tab.0.bottom" timestamp="1604320391654">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1495" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601772190286" />
-    <state width="1494" height="332" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603713039471" />
-    <state width="1494" height="332" key="GridCell.Tab.0.center" timestamp="1603713039471">
+    <state width="1494" height="332" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604320391654" />
+    <state width="1494" height="332" key="GridCell.Tab.0.center" timestamp="1604320391654">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1495" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601772190286" />
-    <state width="1494" height="332" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603713039471" />
-    <state width="1494" height="332" key="GridCell.Tab.0.left" timestamp="1603713039470">
+    <state width="1494" height="332" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1604320391654" />
+    <state width="1494" height="332" key="GridCell.Tab.0.left" timestamp="1604320391654">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1495" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601772190285" />
-    <state width="1494" height="332" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603713039470" />
-    <state width="1494" height="332" key="GridCell.Tab.0.right" timestamp="1603713039471">
+    <state width="1494" height="332" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1604320391654" />
+    <state width="1494" height="332" key="GridCell.Tab.0.right" timestamp="1604320391654">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1495" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601772190286" />
-    <state width="1494" height="332" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603713039471" />
+    <state width="1494" height="332" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1604320391654" />
     <state x="949" y="219" key="RollbackChangesDialog" timestamp="1603639582331">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -229,10 +225,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="179" width="638" height="408" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601770041864" />
-    <state x="178" y="22" key="new project wizard" timestamp="1601254753785">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="452" y="69" key="new project wizard" timestamp="1603767937368">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601254753785" />
+    <state x="452" y="69" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1603767937368" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1603278266807">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
