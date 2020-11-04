@@ -86,7 +86,7 @@
       </method>
     </configuration>
     <configuration name="SortFast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortFast" />
+      <option name="MAIN_CLASS_NAME" value="DemoArray.SortFast" />
       <module name="javaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
