@@ -1,5 +1,8 @@
 package Chapter3;
-
+/*
+值传递和引用传递：值传递是将源数据拷贝一份数据传递给调用处、拷贝的数据被更改不会影响到源数据、
+引用传递则是直接将源数据的底层内存地址传递给调用处、调用处更改这份数据相当于把源数据也一同修改了、
+ */
 public class PassValue {
     static void doPower(int i,int j){
         i+=5;

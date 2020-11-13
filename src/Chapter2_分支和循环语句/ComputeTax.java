@@ -1,5 +1,7 @@
-package Chapter2;
-
+package Chapter2_分支和循环语句;
+/*
+分支语句 if else 的使用及注意点
+ */
 import java.util.Scanner;
 
 //if（expression）{

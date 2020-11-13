@@ -1,6 +1,4 @@
-package Chapter2;
-
-import java.util.Scanner;
+package Chapter2_分支和循环语句;
 
 public class 完结篇 {
     /*

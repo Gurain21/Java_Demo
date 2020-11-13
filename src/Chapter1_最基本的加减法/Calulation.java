@@ -1,4 +1,4 @@
-package Chapter1;
+package Chapter1_最基本的加减法;
 //定义了加和减两个类，并在main函数使用
 class  Add{
     int x,y;
@@ -25,7 +25,7 @@ class Sub{
         return x-y;
     }
 }
- class  Calculation{
+ class  Calculation{  //计算结果
     public static void main(String[] args) {
         Add add =new Add();
         add.x = 3;

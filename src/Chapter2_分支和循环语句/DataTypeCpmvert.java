@@ -1,5 +1,7 @@
-package Chapter2;
-
+package Chapter2_分支和循环语句;
+/*
+强制类型转换    (int)("20")  (char)(12)  使用 (转换类型)值
+ */
 public class DataTypeCpmvert {
     public static void main(String[] args) {
         char c1 ='a',c2 = 'b',c3;

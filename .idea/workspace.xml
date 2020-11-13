@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe042a7-b3d0-4c59-921a-6622f1eca5cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SortFast.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/ConcentCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/ConcentCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter1/Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter1/Calculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter1/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2/Example2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter2/Example2_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3/PassValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter3/PassValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/SortFast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter1/Calulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter1_最基本的加减法/Calulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/ComputeTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ComputeTax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/DataTypeCpmvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/DataTypeCpmvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/Example2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Example2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/FileEncry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/FileEncry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/ShowDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ShowDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3/PassValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/PassValue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +41,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1103操作字节码文件" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,7 +59,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="应用程序.SortFast">
+  <component name="RunManager" selected="应用程序.PrimeNumber">
     <configuration name="ConstructorInherit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter4_类的深入理解.ConstructorInherit" />
       <module name="javaDemo" />
@@ -59,8 +73,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.LoanTest" />
+    <configuration name="Example2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.Example2_1" />
+      <module name="javaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.PassValue" />
       <module name="javaDemo" />
       <extension name="coverage">
         <pattern>
@@ -72,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MothodInherit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4_类的深入理解.MothodInherit" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.PrimeNumber" />
       <module name="javaDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4_类的深入理解.*" />
+          <option name="PATTERN" value="Chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,39 +119,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarInherit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4_类的深入理解.VarInherit" />
-      <module name="javaDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter4_类的深入理解.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.PrimeNumber" />
+        <item itemvalue="应用程序.Example2_1" />
+        <item itemvalue="应用程序.PassValue" />
         <item itemvalue="应用程序.SortFast" />
         <item itemvalue="应用程序.ConstructorInherit" />
-        <item itemvalue="应用程序.MothodInherit" />
-        <item itemvalue="应用程序.VarInherit" />
-        <item itemvalue="应用程序.LoanTest" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +182,8 @@
       <workItem from="1604371018191" duration="15000" />
       <workItem from="1604374753243" duration="1087000" />
       <workItem from="1604399867297" duration="5468000" />
+      <workItem from="1604500057645" duration="761000" />
+      <workItem from="1605270313784" duration="2414000" />
     </task>
     <servers />
   </component>
@@ -194,26 +208,26 @@
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601389722128" />
     <state x="549" y="178" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604402050661" />
-    <state width="1494" height="202" key="GridCell.Tab.0.bottom" timestamp="1604400917541">
+    <state width="1494" height="202" key="GridCell.Tab.0.bottom" timestamp="1605272555324">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1495" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601772190286" />
-    <state width="1494" height="202" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604400917541" />
-    <state width="1494" height="202" key="GridCell.Tab.0.center" timestamp="1604400917540">
+    <state width="1494" height="202" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605272555324" />
+    <state width="1494" height="202" key="GridCell.Tab.0.center" timestamp="1605272555324">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1495" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601772190286" />
-    <state width="1494" height="202" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1604400917540" />
-    <state width="1494" height="202" key="GridCell.Tab.0.left" timestamp="1604400917540">
+    <state width="1494" height="202" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605272555324" />
+    <state width="1494" height="202" key="GridCell.Tab.0.left" timestamp="1605272555324">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1495" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601772190285" />
-    <state width="1494" height="202" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1604400917540" />
-    <state width="1494" height="202" key="GridCell.Tab.0.right" timestamp="1604400917541">
+    <state width="1494" height="202" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605272555324" />
+    <state width="1494" height="202" key="GridCell.Tab.0.right" timestamp="1605272555324">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1495" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601772190286" />
-    <state width="1494" height="202" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1604400917541" />
+    <state width="1494" height="202" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605272555324" />
     <state x="949" y="219" key="RollbackChangesDialog" timestamp="1603639582331">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

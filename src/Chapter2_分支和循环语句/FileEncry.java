@@ -1,7 +1,9 @@
-package Chapter2;
+package Chapter2_分支和循环语句;
 
 import java.util.Scanner;
-
+/*
+通过 for循环遍历每一个字符  再用我们定义的密钥来与遍历得到的值一个个 进行按位异或^运算  加密一个字符数组
+ */
 public class FileEncry {
     public static void main(String[] args) {
 //提示用户输入加密的内容：

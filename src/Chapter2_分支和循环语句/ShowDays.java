@@ -1,6 +1,11 @@
-package Chapter2;
+package Chapter2_分支和循环语句;
 
-
+/*
+switch分支语句的使用：
+default：默认分支，当所有分支都不匹配时默认走这一分支
+case 分支一
+break：防止贯穿 ；falltrough
+ */
 import java.util.Scanner;
 
 public class ShowDays {
