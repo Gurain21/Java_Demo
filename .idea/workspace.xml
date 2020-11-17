@@ -5,85 +5,134 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aa8c47-d736-4b37-b290-c3826d449142" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/javaDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4_类的深入理解/InterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4_类的深入理解/MethodOverload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4_类的深入理解/PlaneGraphic_ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4_类的深入理解/StudentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5_数组和字符串/ArraySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5_数组和字符串/数组的概念.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6_异常处理/Exception1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6_异常处理/Exception3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6_异常处理/Exception4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6_异常处理/Java中的异常.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/TestProject/AccountNotExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/TestProject/LoginMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/TestProject/PasswordIncorrectException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/TestProject/Validate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7_Stream/SystemIOExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7_Stream/SystemIOExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7_Stream/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7_Stream/what_is_stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/AQFVideoChapter/DemoFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/AQFVideoChapter/DemoFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/AQFVideoChapter/TestMethed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/AQFVideoChapter/TestMethed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter1_最基本的加减法/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter1_最基本的加减法/Add.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter1_最基本的加减法/Calculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter1_最基本的加减法/Calculation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter1_最基本的加减法/Sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter1_最基本的加减法/Sub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/ComputeTax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/ComputeTax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/DataTypeCpmvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/DataTypeCpmvert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/Example2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/Example2_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/FileEncry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/FileEncry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/PrimeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/ShowDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/ShowDays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/ShuShu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/ShuShu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/完结篇.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/完结篇.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_类的初识/ComputeRectCircleArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_类的初识/ConcentCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_类的初识/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_类的初识/Fruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_类的初识/Fruit1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_类的初识/Loan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_类的初识/LoanTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_类的初识/PaintRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_类的初识/PassAdress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_类的初识/PassValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_类的初识/StaticDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_类的初识/Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_类的初识/YYECFC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/ClassInherit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/ClassInherit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/ConstructorInherit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/ConstructorInherit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/MothodInherit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/MothodInherit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Pclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Pclass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/PersonA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/PersonA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Sclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Sclass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/StudentA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/StudentA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/VarInherit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/VarInherit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/parentclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/parentclass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/subclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/subclass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/DemoArray/ArrayDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/DemoArray/ArrayDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/DemoArray/MyQuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/DemoArray/MyQuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/DemoArray/SortFast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/DemoArray/SortFast.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/DemoTotalClass/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/DemoTotalClass/Bank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/DemoTotalClass/TestBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/DemoTotalClass/TestBank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/DemoTotalClass/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/DemoTotalClass/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Demoabstruct/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Demoabstruct/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Demoabstruct/Master.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Demoabstruct/Master.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Demoabstruct/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Demoabstruct/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Demoabstruct/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Demoabstruct/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_类的初识/ComputeRectCircleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/ComputeRectCircleArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_类的初识/ConcentCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/ConcentCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_类的初识/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_类的初识/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_类的初识/Fruit1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/Fruit1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_类的初识/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/Loan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_类的初识/LoanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/LoanTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_类的初识/PaintRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/PaintRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_类的初识/PassAdress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/PassAdress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_类的初识/PassValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/PassValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_类的初识/StaticDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/StaticDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_类的初识/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/Time.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_类的初识/YYECFC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/YYECFC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter4_类的深入理解/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4_类的深入理解/Shapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoArray/SortFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoArray/SortFast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoTotalClass/TestBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoTotalClass/TestBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter1_最基本的加减法/Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter1_最基本的加减法/Calculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter1_最基本的加减法/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/ComputeTax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/DataTypeCpmvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/Example2_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/FileEncry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/ShowDays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/ShuShu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter2_分支和循环语句/完结篇.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_面对对象程序设计/ComputeRectCircleArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_面对对象程序设计/ConcentCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_面对对象程序设计/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_面对对象程序设计/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_面对对象程序设计/Fruit1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_面对对象程序设计/Loan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_面对对象程序设计/LoanTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_面对对象程序设计/PaintRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_面对对象程序设计/PassAdress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_面对对象程序设计/PassValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_面对对象程序设计/StaticDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_面对对象程序设计/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter3_面对对象程序设计/YYECFC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/AudioCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/AudioImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/CPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/CUPImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/ClassInherit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/ConstructorInherit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Eclipse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Graduate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/InterfaceExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/MainBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/MainboardImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Memory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/MemoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/MethodOverload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/MothodInherit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Pclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/PersonA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/PlaneGraphic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/PlaneGraphic_ex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/RandomShapeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Sclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Shapes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Student2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/StudentA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/StudentManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/UnderGraduate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/VarInherit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/VideoCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/VideoCardImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/parentclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter4_类的深入理解/subclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter5_数组和字符串/ArraySort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter5_数组和字符串/Choose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter5_数组和字符串/MaoPao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter5_数组和字符串/Merger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter5_数组和字符串/Quick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter5_数组和字符串/merger2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter5_数组和字符串/数组的概念.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_异常处理/Exception1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_异常处理/Exception3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_异常处理/Java中的异常.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter1_最基本的加减法/Calulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1_introduction/Calulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2_分支和循环语句/ComputeTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2_processControl/ComputeTax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2_分支和循环语句/DataTypeCpmvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2_processControl/DataTypeCpmvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2_分支和循环语句/Example2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2_processControl/Example2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2_分支和循环语句/FileEncry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2_processControl/FileEncry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2_分支和循环语句/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2_processControl/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2_分支和循环语句/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2_processControl/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2_分支和循环语句/ShowDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2_processControl/ShowDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2_分支和循环语句/完结篇.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2_processControl/完结篇.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/ComputeRectCircleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/ComputeRectCircleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/ConcentCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/ConcentCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/Fruit1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/Fruit1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/Loan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/LoanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/LoanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/PaintRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/PaintRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/PassAdress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/PassAdress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/PassValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/PassValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/StaticDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/StaticDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3_面对对象程序设计/YYECFC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/YYECFC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4_类的深入理解/ClassInherit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4_classHigher/ClassInherit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4_类的深入理解/ConstructorInherit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4_classHigher/ConstructorInherit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4_类的深入理解/InterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4_classHigher/InterfaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4_类的深入理解/MethodOverload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4_classHigher/MethodOverload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4_类的深入理解/MothodInherit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4_classHigher/MothodInherit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4_类的深入理解/PlaneGraphic_ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4_classHigher/PlaneGraphic_ex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4_类的深入理解/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4_classHigher/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4_类的深入理解/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4_classHigher/StudentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4_类的深入理解/VarInherit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4_classHigher/VarInherit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5_数组和字符串/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5_ArrayWithString/ArraySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5_数组和字符串/数组的概念.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5_ArrayWithString/数组的概念.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6_异常处理/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6_异常处理/Exception1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/Exception1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6_异常处理/Exception3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/Exception3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6_异常处理/Exception4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/Exception4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6_异常处理/Exception5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/Exception5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6_异常处理/Exception6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/Exception6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6_异常处理/Exception6_2finally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/Exception6_2finally.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6_异常处理/Exception7_throw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/Exception7_throw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6_异常处理/Exception8_throws.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/Exception8_throws.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6_异常处理/Exception9_自定义异常.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/Exception9_自定义异常.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6_异常处理/IllegalSignException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6_异常处理/Java中的异常.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/Java中的异常.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +167,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -130,18 +184,19 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="项目" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="project.structure.last.edited" value="SDK" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="应用程序.Exception3">
-    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5_数组和字符串.ArraySort" />
+  <component name="RunManager" selected="Application.SystemIOExample2">
+    <configuration name="Calculator" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6_异常处理.Calculator" />
       <module name="javaDemo" />
+      <option name="PROGRAM_PARAMETERS" value="1 x 3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter5_数组和字符串.*" />
+          <option name="PATTERN" value="chapter6_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6_异常处理.Exception1" />
+    <configuration name="Exception9_自定义异常" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6_异常处理.Exception9_自定义异常" />
       <module name="javaDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter6_异常处理.*" />
+          <option name="PATTERN" value="chapter6_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6_异常处理.Exception3" />
+    <configuration name="LoginMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.TestProject.LoginMain" />
       <module name="javaDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter6_异常处理.*" />
+          <option name="PATTERN" value="chapter6_Exceptions.TestProject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaoPaoSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5_数组和字符串.MaoPaoSort" />
+    <configuration name="SystemIOExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_Stream.SystemIOExample1" />
       <module name="javaDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter5_数组和字符串.*" />
+          <option name="PATTERN" value="chapter7_Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,48 +243,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4_类的深入理解.StudentManager" />
+    <configuration name="SystemIOExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_Stream.SystemIOExample2" />
       <module name="javaDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4_类的深入理解.*" />
+          <option name="PATTERN" value="chapter7_Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="应用程序.StudentManager" />
-      <item itemvalue="应用程序.MaoPaoSort" />
-      <item itemvalue="应用程序.ArraySort" />
-      <item itemvalue="应用程序.Exception1" />
-      <item itemvalue="应用程序.Exception3" />
+      <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.Exception9_自定义异常" />
+      <item itemvalue="Application.LoginMain" />
+      <item itemvalue="Application.SystemIOExample1" />
+      <item itemvalue="Application.SystemIOExample2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Exception3" />
-        <item itemvalue="应用程序.Exception1" />
-        <item itemvalue="应用程序.ArraySort" />
-        <item itemvalue="应用程序.MaoPaoSort" />
-        <item itemvalue="应用程序.StudentManager" />
+        <item itemvalue="Application.SystemIOExample2" />
+        <item itemvalue="Application.SystemIOExample1" />
+        <item itemvalue="Application.LoginMain" />
+        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zhou1\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c3aa8c47-d736-4b37-b290-c3826d449142" name="默认的" comment="" />
@@ -239,45 +285,90 @@
       <updated>1605367553480</updated>
       <workItem from="1605367555842" duration="2417000" />
       <workItem from="1605371105818" duration="1044000" />
-      <workItem from="1605403071204" duration="25421000" />
+      <workItem from="1605403071204" duration="26213000" />
+      <workItem from="1605444606624" duration="62000" />
+      <workItem from="1605444740300" duration="465000" />
+      <workItem from="1605449159299" duration="6767000" />
+      <workItem from="1605493250667" duration="687000" />
+      <workItem from="1605519406247" duration="3612000" />
+      <workItem from="1605530521101" duration="1720000" />
+      <workItem from="1605535337231" duration="1205000" />
+      <workItem from="1605538887704" duration="1420000" />
+      <workItem from="1605540386306" duration="3779000" />
+      <workItem from="1605571642684" duration="2422000" />
+      <workItem from="1605574398385" duration="2839000" />
+      <workItem from="1605623275576" duration="1521000" />
+      <workItem from="1605624821968" duration="3125000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605369140850">
+    <state x="477" y="108" key="#Calculator" timestamp="1605544680682">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1605369140850" />
-    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1605408784567">
+    <state x="477" y="108" key="#Calculator/0.0.1536.864@0.0.1536.864" timestamp="1605544680682" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605542792978">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1605408784567" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1605542792978" />
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1605623408862">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1605623408862" />
     <state x="499" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1605440954024">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.864@0.0.1536.864" timestamp="1605440954024" />
-    <state width="1025" height="220" key="GridCell.Tab.0.bottom" timestamp="1605443130564">
+    <state x="435" y="0" key="CommitChangelistDialog2" timestamp="1605532112509">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1025" height="220" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605443130564" />
-    <state width="1025" height="220" key="GridCell.Tab.0.center" timestamp="1605443130564">
+    <state x="435" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605532112509" />
+    <state x="742" y="193" key="FileChooserDialogImpl" timestamp="1605581446409">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1025" height="220" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605443130564" />
-    <state width="1025" height="220" key="GridCell.Tab.0.left" timestamp="1605443130564">
+    <state x="742" y="193" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605581446409" />
+    <state width="1492" height="223" key="GridCell.Tab.0.bottom" timestamp="1605628002225">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1025" height="220" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605443130564" />
-    <state width="1025" height="220" key="GridCell.Tab.0.right" timestamp="1605443130564">
+    <state width="1492" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605628002225" />
+    <state width="1492" height="223" key="GridCell.Tab.0.center" timestamp="1605628002225">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1025" height="220" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605443130564" />
-    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1605412218446">
+    <state width="1492" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605628002225" />
+    <state width="1492" height="223" key="GridCell.Tab.0.left" timestamp="1605628002224">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1605412218446" />
+    <state width="1492" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605628002224" />
+    <state width="1492" height="223" key="GridCell.Tab.0.right" timestamp="1605628002225">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605628002225" />
+    <state x="210" y="115" key="SettingsEditor" timestamp="1605573001030">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="210" y="115" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605573001030" />
+    <state x="478" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1605624822990">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="478" y="308" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1605624822990" />
+    <state x="519" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605535504348">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="519" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1605535504348" />
+    <state x="308" y="33" key="new project wizard" timestamp="1605581461170">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="308" y="33" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1605581461170" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1605625686566">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1605625686566" />
+    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1605625935656">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1605625935656" />
   </component>
 </project>
