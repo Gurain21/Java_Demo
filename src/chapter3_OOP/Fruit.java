@@ -1,4 +1,7 @@
 package chapter3_OOP;
+
+import java.io.*;
+
 /*
 什么是对象？
 对象是一组数据和方法的集合、在java中，对象必须类来创建
@@ -21,12 +24,13 @@ POP :面向过程编程，procedure oriented programming
     编程思想：关注的时过程 分析出解决问题的步骤，然后通过函数去一个个实现这些步骤，
  */
 public class Fruit {
+    
     private String name;
     private  boolean seedes;//有种和无种
     private  boolean seasonal;//应季与非应季
     private float price; //价格
     //定义了一个Fruit 设置水果属性的方法
-    public void  setPrioperties(String thisname,boolean seed,boolean season,float cost){
+    public void  setPrioperties(String thisname,boolean seed,boolean season,float cost) {
         name = thisname;
         seedes = seed;
         seasonal = season;
@@ -52,5 +56,7 @@ public class Fruit {
         Fruit watermelon = new Fruit();
         watermelon.setPrioperties("watermelon",true,false,9.38F);
         watermelon.printPrioperties();
+        Fruit f1 = new Fruit();
     }
+
 }

@@ -1,46 +1,46 @@
 package chapter2_processControl;
 
-public class å®Œç»“ç¯‡ {
+public class Íê½áÆª {
     /*
-    JAVAè¯­è¨€çš„åŸºæœ¬æ•°æ®ç±»å‹ï¼š
-    æ•´å‹ï¼š byte short int long
-    æµ®ç‚¹ï¼šfloat double
-    å­—ç¬¦ï¼šchar
-    å¸ƒå°” boolean  false true
+    JAVAÓïÑÔµÄ»ù±¾Êı¾İÀàĞÍ£º
+    ÕûĞÍ£º byte short int long
+    ¸¡µã£ºfloat double
+    ×Ö·û£ºchar
+    ²¼¶û boolean  false true
 
-    JAVAçš„å¤åˆæ•°æ®ç±»å‹ï¼š
+    JAVAµÄ¸´ºÏÊı¾İÀàĞÍ£º
      interface
      class
      array
 
-     å˜é‡ï¼šåœ¨ç¨‹åºè¿è¡Œè¿‡ç¨‹ä¸­å¯ä»¥è¢«æ”¹å˜çš„é‡
-     å¸¸é‡ï¼šåœ¨ç¨‹åºè¿è¡Œè¿‡ç¨‹ä¸­ä¸èƒ½è¢«æ”¹å˜çš„é‡
+     ±äÁ¿£ºÔÚ³ÌĞòÔËĞĞ¹ı³ÌÖĞ¿ÉÒÔ±»¸Ä±äµÄÁ¿
+     ³£Á¿£ºÔÚ³ÌĞòÔËĞĞ¹ı³ÌÖĞ²»ÄÜ±»¸Ä±äµÄÁ¿
 
 
-     åœ¨ä¸åŒæ•°æ®ç±»å‹çš„è¿ç®—è¿‡ç¨‹ä¸­ä¼šç”¨åˆ°å¼ºåˆ¶ç±»å‹è½¬æ¢
+     ÔÚ²»Í¬Êı¾İÀàĞÍµÄÔËËã¹ı³ÌÖĞ»áÓÃµ½Ç¿ÖÆÀàĞÍ×ª»»
 
 
-     breakï¼šé˜²æ­¢switchç©¿é€  å½“caseåŒ¹é…æˆåŠŸåã€‚æ‰§è¡Œcaseçš„ä»£ç å—é‡åˆ°äº†break æ‰ä¸ä¼šç›´æ¥ç©¿é€
-     continueï¼š è·³è¿‡æœ¬æ¬¡å¾ªç¯ï¼Œè¿›è¡Œä¸‹ä¸€æ¬¡å¾ªç¯ï¼›
-     breakï¼š å½»åº•ç»“æŸå¾ªç¯ã€‚
+     break£º·ÀÖ¹switch´©Í¸  µ±caseÆ¥Åä³É¹¦ºó¡£Ö´ĞĞcaseµÄ´úÂë¿éÓöµ½ÁËbreak ²Å²»»áÖ±½Ó´©Í¸
+     continue£º Ìø¹ı±¾´ÎÑ­»·£¬½øĞĞÏÂÒ»´ÎÑ­»·£»
+     break£º ³¹µ×½áÊøÑ­»·¡£
 
      */
 
     public static void main(String[] args) {
-        //ä¸Šæœºé¢˜ï¼š1
+        //ÉÏ»úÌâ£º1
        /* int a,b,c ;
-        System.out.println("è¯·ä¾æ¬¡è¾“å…¥ä¸‰æ¡è¾¹çš„é•¿åº¦ (cm) ");
+        System.out.println("ÇëÒÀ´ÎÊäÈëÈıÌõ±ßµÄ³¤¶È (cm) ");
         Scanner in =new Scanner(System.in);
         a = in.nextInt();
         b = in.nextInt();
         c = in.nextInt();
         if ((a+b>c)||(a+c>b)||(b+c>a)){
-            System.out.println("è¾“å…¥æœ‰æ•ˆï¼Œè¿™ä¸‰æ¡è¾¹å¯ä»¥ç»„æˆä¸€ä¸ªä¸‰è§’å½¢");
+            System.out.println("ÊäÈëÓĞĞ§£¬ÕâÈıÌõ±ß¿ÉÒÔ×é³ÉÒ»¸öÈı½ÇĞÎ");
         }else{
-            System.out.println("é•¿åº¦ä¸º"+a+""+b+""+c+"ä¸‰æ¡è¾¹ä¸èƒ½ç»„æˆä¸‰è§’å½¢");
+            System.out.println("³¤¶ÈÎª"+a+""+b+""+c+"ÈıÌõ±ß²»ÄÜ×é³ÉÈı½ÇĞÎ");
         }*/
-//2 ä¸€ä¸ªå–èŠ±å¥³å–é²œèŠ±ï¼Œï¼Œæ™´å¤©æ¯å¤©å¯å–20æœµï¼Œé›¨å¤©å¯å–12æœµï¼Œ
-// æœ‰ä¸€æ®µæ—¶é—´è¿ç»­å‡ å¤©å…±å–å‡ºäº†112æœµé²œèŠ±ï¼Œå¹³å‡æ¯å¤©å–14æœµï¼Œè¯·ç¼–ç¨‹æ¨ç®—è¿™å‡ å¤©å†…æœ‰å‡ ä¸ªæ™´å¤©ï¼Ÿå‡ ä¸ªé›¨å¤©ï¼Ÿ
+//2 Ò»¸öÂô»¨Å®ÂôÏÊ»¨£¬£¬ÇçÌìÃ¿Ìì¿ÉÂô20¶ä£¬ÓêÌì¿ÉÂô12¶ä£¬
+// ÓĞÒ»¶ÎÊ±¼äÁ¬Ğø¼¸Ìì¹²Âô³öÁË112¶äÏÊ»¨£¬Æ½¾ùÃ¿ÌìÂô14¶ä£¬Çë±à³ÌÍÆËãÕâ¼¸ÌìÄÚÓĞ¼¸¸öÇçÌì£¿¼¸¸öÓêÌì£¿
      /*   int sun = 20;
         int rain = 12;
         int sun_day = 0,rain_day =0;
@@ -49,30 +49,30 @@ public class å®Œç»“ç¯‡ {
           if (i*sun +(days-i)*rain == 112){
               sun_day = i;
               rain_day =days-i;
-              System.out.println("æ™´å¤©ï¼š"+sun_day);
-              System.out.println("é›¨å¤©ï¼š"+rain_day);
+              System.out.println("ÇçÌì£º"+sun_day);
+              System.out.println("ÓêÌì£º"+rain_day);
           }
        }*/
-        //3.å‡å¦‚ä»Šå¹´æŸå¤§å­¦çš„å­¦è´¹ä¸º400å…ƒï¼Œå­¦è´¹çš„å¢é•¿ç‡ä¸º5%ã€‚
-        // ä½¿ç”¨å¾ªç¯è¯­å¥ç¼–å†™ç¨‹åºã€‚åˆ†åˆ«è®¡ç®—10å¹´åçš„å­¦è´¹ä»¥åŠä»ç°åœ¨å¼€å§‹çš„å››å¹´çš„æ€»å­¦è´¹
+        //3.¼ÙÈç½ñÄêÄ³´óÑ§µÄÑ§·ÑÎª400Ôª£¬Ñ§·ÑµÄÔö³¤ÂÊÎª5%¡£
+        // Ê¹ÓÃÑ­»·Óï¾ä±àĞ´³ÌĞò¡£·Ö±ğ¼ÆËã10ÄêºóµÄÑ§·ÑÒÔ¼°´ÓÏÖÔÚ¿ªÊ¼µÄËÄÄêµÄ×ÜÑ§·Ñ
         int cost = 400;
         int total = 400;
         for (int count = 0;count<10;count++){
             cost+= cost*0.05;
             total+=cost;
             if (count ==3){
-                System.out.println(count+1+"å¹´æ€»è®¡"+total);
+                System.out.println(count+1+"Äê×Ü¼Æ"+total);
             }
             if (count==9){
-                System.out.println(count+1+"å¹´æ€»è®¡"+total);
+                System.out.println(count+1+"Äê×Ü¼Æ"+total);
 
             }
         }
 //        do {
 //            if (count == 0) {
 //                total += cost;//400
-//                System.out.println("ä»Šå¹´çš„å­¦è´¹æ˜¯" + cost);
-//                System.out.println("æ€»å­¦è´¹" + total);
+//                System.out.println("½ñÄêµÄÑ§·ÑÊÇ" + cost);
+//                System.out.println("×ÜÑ§·Ñ" + total);
 //
 //            }
 //            cost += cost * 0.05;//420
@@ -80,8 +80,8 @@ public class å®Œç»“ç¯‡ {
 //
 //            count++;//1
 //
-//            System.out.println(count + "å¹´åçš„å­¦è´¹ä¸º" + cost);//
-//            System.out.println("æ€»å­¦è´¹" + total);
+//            System.out.println(count + "ÄêºóµÄÑ§·ÑÎª" + cost);//
+//            System.out.println("×ÜÑ§·Ñ" + total);
 //            if (count == 4) {
 //                System.out.println(total);
 //            }

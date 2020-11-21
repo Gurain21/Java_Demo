@@ -14,7 +14,7 @@ class MyExcetption extends Exception{
         super(s);
     }
 }
-public class Exception9_自定义异常 {
+public class Exception9_MyDefineException {
     //声明抛出MyException异常
      static void method(int level)throws MyExcetption {
         System.out.println("调用方法 method ("+level+")");
