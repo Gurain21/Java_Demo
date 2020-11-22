@@ -9,7 +9,7 @@ public class SystemIOExample5 {
     public static void main(String[] args) {
         float numberx = 0;
         Scanner in = new Scanner(System.in);
-        System.out.println("曹丹");
+        System.out.println("卧槽");
         while (in.hasNextFloat()){
             numberx = in.nextFloat();
             System.out.println(numberx+" ");

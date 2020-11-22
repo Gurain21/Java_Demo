@@ -5,34 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aa8c47-d736-4b37-b290-c3826d449142" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_寮傚父澶勭悊/TestProject/AccountNotExistException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_寮傚父澶勭悊/TestProject/LoginMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_寮傚父澶勭悊/TestProject/PasswordIncorrectException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_寮傚父澶勭悊/TestProject/Validate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/数组的概念.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception9_MyDefineException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter7_stream/FileIOExample1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter7_stream/SystemIOExample3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter7_stream/SystemIOExample4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter7_stream/SystemIOExample5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter7_stream/test3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2_processControl/完结篇.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5_ArrayWithString/数组的概念.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/Java中的异常.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_Stream/FileIOExample1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_Stream/FileIOExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_Stream/SystemIOExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_Stream/SystemIOExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_Stream/SystemIOExample5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_Stream/test3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7_Stream/FileIOExample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/AQFVideoChapter/TestMethed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/AQFVideoChapter/TestMethed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_异常处理/TestProject/AccountNotExistException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_异常处理/TestProject/LoginMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_异常处理/TestProject/PasswordIncorrectException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_异常处理/TestProject/Validate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_寮傚父澶勭悊/TestProject/AccountNotExistException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_寮傚父澶勭悊/TestProject/LoginMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_寮傚父澶勭悊/TestProject/PasswordIncorrectException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Chapter6_寮傚父澶勭悊/TestProject/Validate.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/DemoArray/SortFast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/DemoArray/SortFast.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/DemoTotalClass/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/DemoTotalClass/Bank.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Demoabstruct/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/Demoabstruct/Car.class" afterDir="false" />
@@ -45,8 +25,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter2_processControl/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter2_processControl/PrimeNumber.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter2_processControl/ShowDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter2_processControl/ShowDays.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter2_processControl/ShuShu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter2_processControl/ShuShu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter2_processControl/完结篇.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter3_OOP/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter3_OOP/Fruit.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter3_OOP/LoanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter3_OOP/LoanTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter3_OOP/PassAdress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter3_OOP/PassAdress.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter3_OOP/PassValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter3_OOP/PassValue.class" afterDir="false" />
@@ -65,7 +43,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter4_classHigher/parentclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter4_classHigher/parentclass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter4_classHigher/subclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter4_classHigher/subclass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/ArraySort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/ArraySort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/数组的概念.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Calculator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception4.class" afterDir="false" />
@@ -74,15 +51,8 @@
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception6_2finally.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception6_2finally.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception7_throw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception7_throw.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception8_throws.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception8_throws.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception9_自定义异常.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Java中的异常.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/MyExcetption.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/MyExcetption.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter7_stream/SystemIOExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter7_stream/SystemIOExample1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2_processControl/完结篇.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter2_processControl/完结篇.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3_OOP/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_OOP/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5_ArrayWithString/数组的概念.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6_Exceptions/Exception9_自定义异常.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6_Exceptions/Exception9_MyDefineException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6_Exceptions/Java中的异常.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Java中的异常.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception9_MyDefineException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter6_Exceptions/Exception9_MyDefineException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7_Stream/SystemIOExample5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7_Stream/SystemIOExample5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,9 +122,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.SystemIOExample5">
+  <component name="RunManager" selected="Application.FileIOExample2">
     <configuration name="Exception9_自定义异常" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter6_Exceptions.Exception9_自定义异常" />
       <module name="javaDemo" />
@@ -194,8 +164,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SystemIOExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7_Stream.SystemIOExample3" />
+    <configuration name="FileIOExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_Stream.FileIOExample2" />
       <module name="javaDemo" />
       <extension name="coverage">
         <pattern>
@@ -222,18 +192,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Exception9_自定义异常" />
-      <item itemvalue="Application.SystemIOExample3" />
       <item itemvalue="Application.FileIOExample1" />
       <item itemvalue="Application.Exception9_MyDefineException" />
       <item itemvalue="Application.SystemIOExample5" />
+      <item itemvalue="Application.FileIOExample2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileIOExample2" />
         <item itemvalue="Application.SystemIOExample5" />
         <item itemvalue="Application.Exception9_MyDefineException" />
         <item itemvalue="Application.Exception9_自定义异常" />
         <item itemvalue="Application.FileIOExample1" />
-        <item itemvalue="Application.SystemIOExample3" />
       </list>
     </recent_temporary>
   </component>
@@ -275,6 +245,7 @@
       <workItem from="1605969231921" duration="317000" />
       <workItem from="1605969564666" duration="308000" />
       <workItem from="1605969889162" duration="42000" />
+      <workItem from="1606042324208" duration="1596000" />
     </task>
     <servers />
   </component>
@@ -302,34 +273,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="435" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605532112509" />
-    <state x="742" y="193" key="FileChooserDialogImpl" timestamp="1605966821595">
+    <state x="742" y="193" key="FileChooserDialogImpl" timestamp="1606042366613">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="742" y="193" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605966821595" />
-    <state width="1342" height="208" key="GridCell.Tab.0.bottom" timestamp="1605969932040">
+    <state x="742" y="193" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606042366613" />
+    <state width="1342" height="208" key="GridCell.Tab.0.bottom" timestamp="1606044153494">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605969932040" />
-    <state width="1342" height="208" key="GridCell.Tab.0.center" timestamp="1605969932040">
+    <state width="1342" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606044153494" />
+    <state width="1342" height="208" key="GridCell.Tab.0.center" timestamp="1606044153494">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605969932040" />
-    <state width="1342" height="208" key="GridCell.Tab.0.left" timestamp="1605969932039">
+    <state width="1342" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606044153494" />
+    <state width="1342" height="208" key="GridCell.Tab.0.left" timestamp="1606044153494">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605969932039" />
-    <state width="1342" height="208" key="GridCell.Tab.0.right" timestamp="1605969932040">
+    <state width="1342" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606044153494" />
+    <state width="1342" height="208" key="GridCell.Tab.0.right" timestamp="1606044153494">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605969932040" />
-    <state x="210" y="19" key="SettingsEditor" timestamp="1605969389866">
+    <state width="1342" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606044153494" />
+    <state x="210" y="19" key="SettingsEditor" timestamp="1606042520290">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="210" y="19" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605969389866" />
-    <state x="478" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1605969890448">
+    <state x="210" y="19" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606042520290" />
+    <state x="478" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1606042324285">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="478" y="308" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1605969890448" />
+    <state x="478" y="308" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1606042324285" />
     <state x="519" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605535504348">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
