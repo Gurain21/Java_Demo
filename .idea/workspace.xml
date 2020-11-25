@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aa8c47-d736-4b37-b290-c3826d449142" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_8_Thread/ThreadExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_8_Thread/ThreadExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_8_Thread/ThreadExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_8_Thread/ThreadExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_8_Thread/ThreadExample5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_8_Thread/ThreadExample6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_8_Thread/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_8_Thread/ThreadExample7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_8_Thread/ThreadExample8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_8_Thread/TicketSeller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5_ArrayWithString/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5_ArrayWithString/ArraySort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,20 +81,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.ThreadTest">
-    <configuration name="ThreadExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_8_Thread.ThreadExample3" />
-      <module name="javaDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_8_Thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ThreadExample7">
     <configuration name="ThreadExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_8_Thread.ThreadExample4" />
       <module name="javaDemo" />
@@ -138,6 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadExample7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_8_Thread.ThreadExample7" />
+      <module name="javaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_8_Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_8_Thread.ThreadTest" />
       <module name="javaDemo" />
@@ -152,19 +148,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadExample3" />
       <item itemvalue="Application.ThreadExample4" />
       <item itemvalue="Application.ThreadExample5" />
       <item itemvalue="Application.ThreadExample6" />
       <item itemvalue="Application.ThreadTest" />
+      <item itemvalue="Application.ThreadExample7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadExample7" />
         <item itemvalue="Application.ThreadTest" />
         <item itemvalue="Application.ThreadExample6" />
         <item itemvalue="Application.ThreadExample5" />
         <item itemvalue="Application.ThreadExample4" />
-        <item itemvalue="Application.ThreadExample3" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +204,10 @@
       <workItem from="1605969889162" duration="42000" />
       <workItem from="1606042324208" duration="1596000" />
       <workItem from="1606052876224" duration="1544000" />
-      <workItem from="1606098819485" duration="11705000" />
+      <workItem from="1606098819485" duration="14799000" />
+      <workItem from="1606177899344" duration="457000" />
+      <workItem from="1606202846182" duration="913000" />
+      <workItem from="1606222190029" duration="2531000" />
     </task>
     <servers />
   </component>
@@ -224,10 +223,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1605968680741" />
-    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1606133671286">
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1606138155378">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1606133671286" />
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1606138155378" />
     <state x="499" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1605440954024">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -236,34 +235,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="435" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605532112509" />
-    <state x="742" y="193" key="FileChooserDialogImpl" timestamp="1606098830016">
+    <state x="742" y="193" key="FileChooserDialogImpl" timestamp="1606178355235">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="742" y="193" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606098830016" />
-    <state width="1342" height="208" key="GridCell.Tab.0.bottom" timestamp="1606135610149">
+    <state x="742" y="193" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606178355235" />
+    <state width="1342" height="208" key="GridCell.Tab.0.bottom" timestamp="1606136109672">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606135610149" />
-    <state width="1342" height="208" key="GridCell.Tab.0.center" timestamp="1606135610148">
+    <state width="1342" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606136109672" />
+    <state width="1342" height="208" key="GridCell.Tab.0.center" timestamp="1606136109672">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606135610148" />
-    <state width="1342" height="208" key="GridCell.Tab.0.left" timestamp="1606135610148">
+    <state width="1342" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606136109672" />
+    <state width="1342" height="208" key="GridCell.Tab.0.left" timestamp="1606136109672">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606135610148" />
-    <state width="1342" height="208" key="GridCell.Tab.0.right" timestamp="1606135610148">
+    <state width="1342" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606136109672" />
+    <state width="1342" height="208" key="GridCell.Tab.0.right" timestamp="1606136109672">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606135610148" />
+    <state width="1342" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606136109672" />
     <state x="210" y="19" key="SettingsEditor" timestamp="1606042520290">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="210" y="19" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606042520290" />
-    <state x="478" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1606098820703">
+    <state x="478" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1606226399624">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="478" y="308" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1606098820703" />
+    <state x="478" y="308" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1606226399624" />
     <state x="519" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605535504348">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -272,13 +271,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="308" y="33" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1605581461170" />
-    <state x="425" y="197" key="run.anything.popup" timestamp="1605625686566">
+    <state x="425" y="197" key="run.anything.popup" timestamp="1606138828995">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1605625686566" />
-    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1606134955815">
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1606138828995" />
+    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1606136062749">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1606134955815" />
+    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1606136062749" />
   </component>
 </project>

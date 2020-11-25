@@ -1,5 +1,7 @@
 package chapter5_ArrayWithString;
 
+import java.io.Serializable;
+
 //冒泡排序展示：
 /*
 冒泡排序是一种简单的交换排序，其基本思路是，从数组左边开始扫描待排序的元素，在扫描的过程中一次对相邻元素进行比较，
@@ -31,7 +33,7 @@ public class ArraySort {
 }
 
 //冒泡排序
-class MaoPao {
+class MaoPao  {
     private static int temp;
 
     public static void sort(int[] ary, int left, int right) {
