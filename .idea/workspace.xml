@@ -5,11 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aa8c47-d736-4b37-b290-c3826d449142" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter_8_Thread/ThreadExample7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_8_Thread/ThreadExample8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_8_Thread/TicketSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Box.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5_ArrayWithString/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5_ArrayWithString/ArraySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/ArraySort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/ArraySort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/Choose.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/Choose.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/MaoPao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/MaoPao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/Merger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/Merger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/Quick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/Quick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/merger2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/merger2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter_8_Thread/MyThread7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter_8_Thread/MyThread7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter_8_Thread/ThreadExample7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter_8_Thread/ThreadExample7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,16 +92,10 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.ThreadExample7">
-    <configuration name="ThreadExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_8_Thread.ThreadExample4" />
+  <component name="RunManager" selected="Application.Box">
+    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Box" />
       <module name="javaDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_8_Thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadExample4" />
       <item itemvalue="Application.ThreadExample5" />
       <item itemvalue="Application.ThreadExample6" />
       <item itemvalue="Application.ThreadTest" />
       <item itemvalue="Application.ThreadExample7" />
+      <item itemvalue="Application.Box" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Box" />
         <item itemvalue="Application.ThreadExample7" />
         <item itemvalue="Application.ThreadTest" />
         <item itemvalue="Application.ThreadExample6" />
         <item itemvalue="Application.ThreadExample5" />
-        <item itemvalue="Application.ThreadExample4" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +213,9 @@
       <workItem from="1606177899344" duration="457000" />
       <workItem from="1606202846182" duration="913000" />
       <workItem from="1606222190029" duration="2531000" />
+      <workItem from="1606310054198" duration="4419000" />
+      <workItem from="1606370638070" duration="10000" />
+      <workItem from="1606660325894" duration="73000" />
     </task>
     <servers />
   </component>
@@ -223,10 +231,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1605968680741" />
-    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1606138155378">
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1606355519544">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1606138155378" />
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1606355519544" />
     <state x="499" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1605440954024">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -259,10 +267,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="210" y="19" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606042520290" />
-    <state x="478" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1606226399624">
+    <state x="478" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1606370638770">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="478" y="308" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1606226399624" />
+    <state x="478" y="308" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1606370638770" />
     <state x="519" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605535504348">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
