@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aa8c47-d736-4b37-b290-c3826d449142" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5_ArrayWithString/GradeExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Fruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/ArraySort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/ArraySort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/Choose.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/Choose.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/MaoPao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/MaoPao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/Merger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/Merger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/Quick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/Quick.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/merger2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter5_ArrayWithString/merger2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter_8_Thread/MyThread7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter_8_Thread/MyThread7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaDemo/chapter_8_Thread/ThreadExample7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaDemo/chapter_8_Thread/ThreadExample7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +78,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Box">
+  <component name="RunManager" selected="Application.GradeExam">
     <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Box" />
       <module name="javaDemo" />
@@ -100,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_8_Thread.ThreadExample5" />
+    <configuration name="GradeExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5_ArrayWithString.GradeExam" />
       <module name="javaDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_8_Thread.*" />
+          <option name="PATTERN" value="chapter5_ArrayWithString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,19 +139,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadExample5" />
       <item itemvalue="Application.ThreadExample6" />
       <item itemvalue="Application.ThreadTest" />
       <item itemvalue="Application.ThreadExample7" />
       <item itemvalue="Application.Box" />
+      <item itemvalue="Application.GradeExam" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GradeExam" />
         <item itemvalue="Application.Box" />
         <item itemvalue="Application.ThreadExample7" />
         <item itemvalue="Application.ThreadTest" />
         <item itemvalue="Application.ThreadExample6" />
-        <item itemvalue="Application.ThreadExample5" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +201,9 @@
       <workItem from="1606222190029" duration="2531000" />
       <workItem from="1606310054198" duration="4419000" />
       <workItem from="1606370638070" duration="10000" />
-      <workItem from="1606660325894" duration="73000" />
+      <workItem from="1606660325894" duration="938000" />
+      <workItem from="1606703603883" duration="21000" />
+      <workItem from="1606993206319" duration="1120000" />
     </task>
     <servers />
   </component>
@@ -243,34 +231,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="435" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605532112509" />
-    <state x="742" y="193" key="FileChooserDialogImpl" timestamp="1606178355235">
+    <state x="742" y="193" key="FileChooserDialogImpl" timestamp="1606703621897">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="742" y="193" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606178355235" />
-    <state width="1342" height="208" key="GridCell.Tab.0.bottom" timestamp="1606136109672">
+    <state x="742" y="193" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606703621897" />
+    <state width="1214" height="220" key="GridCell.Tab.0.bottom" timestamp="1606995731835">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606136109672" />
-    <state width="1342" height="208" key="GridCell.Tab.0.center" timestamp="1606136109672">
+    <state width="1214" height="220" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606995731835" />
+    <state width="1214" height="220" key="GridCell.Tab.0.center" timestamp="1606995731834">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606136109672" />
-    <state width="1342" height="208" key="GridCell.Tab.0.left" timestamp="1606136109672">
+    <state width="1214" height="220" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606995731834" />
+    <state width="1214" height="220" key="GridCell.Tab.0.left" timestamp="1606995731833">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606136109672" />
-    <state width="1342" height="208" key="GridCell.Tab.0.right" timestamp="1606136109672">
+    <state width="1214" height="220" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606995731833" />
+    <state width="1214" height="220" key="GridCell.Tab.0.right" timestamp="1606995731834">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606136109672" />
+    <state width="1214" height="220" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606995731834" />
     <state x="210" y="19" key="SettingsEditor" timestamp="1606042520290">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="210" y="19" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606042520290" />
-    <state x="478" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1606370638770">
+    <state x="478" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1606703605556">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="478" y="308" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1606370638770" />
+    <state x="478" y="308" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1606703605556" />
     <state x="519" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605535504348">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -283,9 +271,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1606138828995" />
-    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1606136062749">
+    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1606995290521">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1606136062749" />
+    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1606995290521" />
   </component>
 </project>
