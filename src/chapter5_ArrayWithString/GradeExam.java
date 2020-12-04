@@ -10,8 +10,8 @@ public class GradeExam {
                 {'B', 'C', 'C', 'D', 'A', 'E', 'D', 'C', 'E', 'A'}};
         char[] keys = {'D', 'B', 'D', 'C', 'C', 'D', 'A', 'E', 'A', 'D'};
     for (int i = 0; i< answer.length;i++){
-        int count = 0; //记录答对的题目个数
-        for (int j  = 0;j<answer[i].length;j++){
+        int count = 0; //记录答对的题目个数 每人一个
+        for (int j  = 0;j<answer[i].length;j++){//每个学生的答案都一次
             if (answer[i][j]==keys[j]){//判断学生的答案是否和标准答案一致
                 count++;
 
