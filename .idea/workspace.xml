@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aa8c47-d736-4b37-b290-c3826d449142" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/src/otherDemo/crypto/DemoDESCrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/otherDemo/crypto/Base64Crypt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Box.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/otherDemo/DemoTotalClass/Box.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/otherDemo/DemoTotalClass/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoArray/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/otherDemo/DemoArray/ArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoArray/SortFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/otherDemo/DemoArray/SortFast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoTotalClass/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/otherDemo/DemoTotalClass/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoTotalClass/ClassUpdateJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/otherDemo/DemoTotalClass/ClassUpdateJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoTotalClass/TestBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/otherDemo/DemoTotalClass/TestBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoTotalClass/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/otherDemo/DemoTotalClass/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demoabstruct/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/otherDemo/Demoabstruct/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demoabstruct/Master.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/otherDemo/Demoabstruct/Master.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demoabstruct/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/otherDemo/Demoabstruct/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demoabstruct/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/otherDemo/Demoabstruct/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/otherDemo/DemoTotalClass/test3.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,10 +83,16 @@
       <recent name="E:\Code\Java\javaDemo\src\otherDemo\DemoTotalClass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoDESCrypt">
-    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="otherDemo.DemoTotalClass.Box" />
+  <component name="RunManager" selected="Application.Base64Crypt">
+    <configuration name="Base64Crypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="otherDemo.crypto.Base64Crypt" />
       <module name="javaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="otherDemo.crypto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,19 +150,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Box" />
       <item itemvalue="Application.GradeExam" />
       <item itemvalue="Application.Exam_1" />
       <item itemvalue="Application.Exam_2" />
       <item itemvalue="Application.DemoDESCrypt" />
+      <item itemvalue="Application.Base64Crypt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Base64Crypt" />
         <item itemvalue="Application.DemoDESCrypt" />
         <item itemvalue="Application.Exam_2" />
         <item itemvalue="Application.Exam_1" />
         <item itemvalue="Application.GradeExam" />
-        <item itemvalue="Application.Box" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +217,8 @@
       <workItem from="1606993206319" duration="3237000" />
       <workItem from="1607048697221" duration="145000" />
       <workItem from="1607049577178" duration="5000" />
-      <workItem from="1607253485029" duration="2640000" />
+      <workItem from="1607253485029" duration="2819000" />
+      <workItem from="1607339076925" duration="325000" />
     </task>
     <servers />
   </component>
@@ -256,22 +250,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="742" y="193" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606703621897" />
-    <state width="1214" height="198" key="GridCell.Tab.0.bottom" timestamp="1607256212467">
+    <state width="1492" height="197" key="GridCell.Tab.0.bottom" timestamp="1607339302005">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1214" height="198" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607256212467" />
-    <state width="1214" height="198" key="GridCell.Tab.0.center" timestamp="1607256212467">
+    <state width="1492" height="197" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607339302005" />
+    <state width="1492" height="197" key="GridCell.Tab.0.center" timestamp="1607339302003">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1214" height="198" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607256212467" />
-    <state width="1214" height="198" key="GridCell.Tab.0.left" timestamp="1607256212467">
+    <state width="1492" height="197" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607339302003" />
+    <state width="1492" height="197" key="GridCell.Tab.0.left" timestamp="1607339302003">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1214" height="198" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607256212467" />
-    <state width="1214" height="198" key="GridCell.Tab.0.right" timestamp="1607256212467">
+    <state width="1492" height="197" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607339302003" />
+    <state width="1492" height="197" key="GridCell.Tab.0.right" timestamp="1607339302004">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1214" height="198" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607256212467" />
+    <state width="1492" height="197" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607339302004" />
     <state x="210" y="19" key="SettingsEditor" timestamp="1606042520290">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
