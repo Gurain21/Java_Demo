@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aa8c47-d736-4b37-b290-c3826d449142" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/otherDemo/DemoBTCConnect/BTCSerivers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/otherDemo/DemoBTCConnect/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/otherDemo/DemoBTCConnect/lib/fastjson-1.2.73.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/otherDemo/DemoBTCConnect/lib/httpclient-4.5.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/otherDemo/DemoBTCConnect/lib/httpcore-4.4.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_10_network/InetAddressTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaDemo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +64,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/otherDemo/DemoBTCConnect" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -92,7 +86,7 @@
       <recent name="E:\Code\Java\javaDemo\src\otherDemo\DemoTotalClass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BTCSerivers">
+  <component name="RunManager" selected="Application.InetAddressTest">
     <configuration name="BTCSerivers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="otherDemo.DemoBTCConnect.BTCSerivers" />
       <module name="javaDemo" />
@@ -132,19 +126,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5_ArrayWithString.Exam_1" />
-      <module name="javaDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter5_ArrayWithString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Exam_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter5_ArrayWithString.Exam_2" />
       <module name="javaDemo" />
@@ -158,20 +139,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InetAddressTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_10_network.InetAddressTest" />
+      <module name="javaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_10_network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Exam_1" />
       <item itemvalue="Application.Exam_2" />
       <item itemvalue="Application.DemoDESCrypt" />
       <item itemvalue="Application.Base64Crypt" />
       <item itemvalue="Application.BTCSerivers" />
+      <item itemvalue="Application.InetAddressTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InetAddressTest" />
         <item itemvalue="Application.BTCSerivers" />
         <item itemvalue="Application.Base64Crypt" />
         <item itemvalue="Application.DemoDESCrypt" />
         <item itemvalue="Application.Exam_2" />
-        <item itemvalue="Application.Exam_1" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +222,8 @@
       <workItem from="1607049577178" duration="5000" />
       <workItem from="1607253485029" duration="2819000" />
       <workItem from="1607339076925" duration="1200000" />
-      <workItem from="1607991731971" duration="2248000" />
+      <workItem from="1607991731971" duration="3044000" />
+      <workItem from="1609221042072" duration="627000" />
     </task>
     <servers />
   </component>
@@ -260,22 +255,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="742" y="193" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606703621897" />
-    <state width="1492" height="197" key="GridCell.Tab.0.bottom" timestamp="1607386288094">
+    <state width="1492" height="197" key="GridCell.Tab.0.bottom" timestamp="1609221670361">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="197" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607386288094" />
-    <state width="1492" height="197" key="GridCell.Tab.0.center" timestamp="1607386288094">
+    <state width="1492" height="197" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1609221670361" />
+    <state width="1492" height="197" key="GridCell.Tab.0.center" timestamp="1609221670356">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="197" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607386288094" />
-    <state width="1492" height="197" key="GridCell.Tab.0.left" timestamp="1607386288094">
+    <state width="1492" height="197" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1609221670356" />
+    <state width="1492" height="197" key="GridCell.Tab.0.left" timestamp="1609221670353">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="197" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607386288094" />
-    <state width="1492" height="197" key="GridCell.Tab.0.right" timestamp="1607386288094">
+    <state width="1492" height="197" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1609221670353" />
+    <state width="1492" height="197" key="GridCell.Tab.0.right" timestamp="1609221670358">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="197" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607386288094" />
+    <state width="1492" height="197" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1609221670358" />
     <state x="210" y="19" key="SettingsEditor" timestamp="1606042520290">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
